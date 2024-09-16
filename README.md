@@ -1,7 +1,5 @@
 # Mir Faiyaz Hossain
 
-**Address:** 4 Holy Lane, Shyamoli, Dhaka 1207  
-**Phone:** (+880) 1985269871  
 **Email:** hossainmirfaiyaz@gmail.com  
 **GitHub:** [mir8077faiyaz](https://github.com/mir8077faiyaz)  
 **LinkedIn:** [mir-faiyaz-hossain](https://www.linkedin.com/in/mir-faiyaz-hossain-573b7b229/)
