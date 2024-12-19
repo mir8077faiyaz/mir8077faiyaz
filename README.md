@@ -46,7 +46,15 @@ I am a graduate of North South University, Dhaka, with a degree in Computer Scie
 - **Database:** MySQL  
 - **Front-end:** HTML5, CSS3, Bootstrap  
 - **Others:** Git, LaTeX  
-- **Languages:** English, Bengali  
+- **Languages:** English, Bengali
+
+## Work Experience
+### bKash Limited Dhaka, Bangladesh
+*BNEXT INTERN, MERCHANT PRODUCTS, PRODUCT & TECHNOLOGY | October 2024 ‑ December 2024*  
+-Developed a Retrieval‑Augmented Generation (RAG)‑based chatbot for bKash Payment Gateway (PGW) products.
+- Integrated bKash PGW APIs into a mini‑ecommerce website, implementing URL‑based and tokenized payment methods.-
+-  Collaborated on merchant onboarding, conducted UAT, and facilitated technical communication.
+- Visited merchants for on‑site integration of notification web extensions and provided detailed reports on outcomes.
 
 ## Projects and Academic Research
 
