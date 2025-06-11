@@ -5,7 +5,7 @@
 **LinkedIn:** [mir-faiyaz-hossain](https://www.linkedin.com/in/mir-faiyaz-hossain-573b7b229/)
 
 ## Summary
-I am a graduate of North South University, Dhaka, with a degree in Computer Science and Engineering. I am passionate about making a meaningful impact in the world using the skills and knowledge I’ve acquired. My interests lie deeply in study, research, and teaching.
+I am a Lecturer at Daffodil International University with a strong passion for Machine Learning, Natural Language Processing, Computer Vision, and Quantum Computing. I am deeply committed to research, teaching, and innovation. My goal is to explore cutting‑edge technologies and contribute to impactful advancements in AI and emerging fields.
 
 ## Education
 
