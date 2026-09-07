@@ -17,21 +17,22 @@
 ---
 
 ### About Me
-
-I'm a former Lecturer in the Department of Computer Science and Engineering at **Daffodil International University**, Dhaka, Bangladesh. I completed my B.Sc. in CSE at **North South University**, graduating *Summa Cum Laude*.
+I’m currently working as a **Research Assistant** at **North South University**, Dhaka, Bangladesh, where I am actively engaged in research in Computer Vision and Hyperspectral Learning.
+Previously I worked as a **Lecturer** the Department of Computer Science and Engineering at **Daffodil International University**, Dhaka, Bangladesh. I completed my B.Sc. in CSE at **North South University**, graduating *Summa Cum Laude*.
 
 My research interests sit at the intersection of **Computer Vision** and **Natural Language Processing**, with a focus on:
 
-- 🧠 Vision-Language Models
-- 🎯 Few-Shot Learning
-- 🎨 Deep Generative Models
+- 🧠 Test-Time Adaptation
+- 🎯 Spectral-Spatial Learning
+- 🎨 Few-Shot Learning
 
 I'm currently exploring **Ph.D. opportunities** to keep pushing on machine learning systems that unify visual and textual understanding — always open to research collaboration and academic networking, so feel free to reach out.
 
 ---
 
 ### 🕒 Recent Milestones
-
+- **2026** — Journal paper accepted in *IEEE Transactions on Geoscience and Remote Sensing * (TGRS, IF: 9.4)
+- **2026** — Started working as a Research Assistant at North South University, Dhaka, Bangladesh
 - **2025** — Journal paper accepted in *Computer Methods and Programs in Biomedicine Update* (Elsevier, Q1)
 - **2025** — Joined as Lecturer, Dept. of CSE, Daffodil International University
 - **2024** — Internship at **bKash Limited**, Merchant Products, Product & Technology Division
