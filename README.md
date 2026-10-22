@@ -20,7 +20,7 @@
 I’m currently working as a **Research Assistant** at **North South University**, Dhaka, Bangladesh, where I am actively engaged in research in Computer Vision and Hyperspectral Learning.
 Previously I worked as a **Lecturer** the Department of Computer Science and Engineering at **Daffodil International University**, Dhaka, Bangladesh. I completed my B.Sc. in CSE at **North South University**, graduating *Summa Cum Laude*.
 
-My research interests sit at the intersection of **Computer Vision** and **Natural Language Processing**, with a focus on:
+My research interests sit at the intersection of **Computer Vision** and **Robust Machine Learning**, with a focus on:
 
 - 🧠 Test-Time Adaptation
 - 🎯 Spectral-Spatial Learning
@@ -31,6 +31,7 @@ I'm currently exploring **Ph.D. opportunities** to keep pushing on machine learn
 ---
 
 ### 🕒 Recent Milestones
+- **2026** - One paper accepted for publication in IEEE International Conference on Big Data 2026
 - **2026** — Journal paper accepted in *IEEE Transactions on Geoscience and Remote Sensing * (TGRS, IF: 9.4)
 - **2026** — Started working as a Research Assistant at North South University, Dhaka, Bangladesh
 - **2025** — Journal paper accepted in *Computer Methods and Programs in Biomedicine Update* (Elsevier, Q1)
